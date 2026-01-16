@@ -1,4 +1,4 @@
- greet(name = 'world') {
+function greet(name = 'world') {
   return `Hello, ${name}!`;
 }
 
